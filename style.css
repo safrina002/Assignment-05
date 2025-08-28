@@ -89,7 +89,7 @@ background:  rgba(0, 166, 62, 1);
 .history{
     display: flex;
 flex-direction: column;
-justify-content: ;
+justify-content: flex-start;
 align-items: flex-start;
 padding: 24px;
 border-radius: 12px;
